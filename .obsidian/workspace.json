@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science/TableDiscovery/Main Records.md"
+                "file": "Science/Kotlin/Master.md"
               },
               "icon": "lucide-list",
-              "title": "Main Records 的大纲"
+              "title": "Master 的大纲"
             }
           },
           {
@@ -174,11 +174,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -191,7 +191,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "34a942354fd138e8",
+  "active": "ff6ca5811d725956",
   "lastOpenFiles": [
     "README.md",
     "LICENSE",
