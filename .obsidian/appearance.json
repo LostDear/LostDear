@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Border",
+  "baseFontSizeAction": true,
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "custom-styles"
+  ],
+  "accentColor": "#51aefb",
+  "baseFontSize": 17
+}

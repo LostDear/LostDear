@@ -1,0 +1,19 @@
+{
+  "Appearance-dark@@background-underlying-select-dark": "background-underlying-default-dark",
+  "Appearance-dark@@background-underlying-CSS-dark": "radial-gradient(100% 100% at 49% 83%, rgb(255, 255, 153) 0%, rgb(255, 204, 255) 100%),    radial-gradient(100% 100% at 70% 31%, rgb(255, 153, 204) 0%, rgb(255, 204, 255) 100%),    radial-gradient(100% 100% at 18% 44%, rgb(255, 204, 255) 0%, rgb(204, 153, 255) 100%),    linear-gradient(161deg, rgb(255, 204, 255) 0%, rgb(255, 255, 153) 12%, rgb(255, 255, 153) 15%, rgb(255, 255, 153) 21%, rgb(204, 153, 255) 28%, rgb(255, 204, 255) 43%),    linear-gradient(161deg, rgb(255, 153, 204) 0%, rgb(204, 153, 255) 33%, rgb(255, 255, 204) 51%),    linear-gradient(161deg, rgb(255, 204, 255) 0%, rgb(255, 255, 204) 30%),    radial-gradient(100% 100% at 38% 59%, rgb(255, 255, 204) 0%, rgb(255, 255, 204) 100%)",
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-default",
+  "Appearance-light@@card-layout-open-light": true,
+  "Appearance-dark@@card-layout-open-dark": true,
+  "Appearance-light@@mod-right-split-background-select-light": "mod-right-split-background-transparent-light",
+  "Appearance-light@@mod-left-split-background-select-light": "mod-left-split-background-transparent-light",
+  "Appearance-dark@@mod-left-split-background-select-dark": "mod-left-split-background-transparent-dark",
+  "Appearance-dark@@mod-right-split-background-select-dark": "mod-right-split-background-transparent-dark",
+  "Appearance-dark@@mod-root-split-background-select-dark": "mod-root-split-background-transparent-dark",
+  "Editor@@line-hover-indicator": true,
+  "Editor@@h1-divider-on": false,
+  "Editor@@h2-divider-on": true,
+  "Editor@@line-height-customize": 1.8,
+  "Editor@@h1-size": "2.5em",
+  "Editor@@h2-size": "2em",
+  "Editor@@h3-size": "1.5em"
+}
