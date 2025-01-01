@@ -11,12 +11,14 @@
             "id": "34a942354fd138e8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Science/TableDiscovery/问题描述.excalidraw.md"
+                "file": "Science/TableDiscovery/Data Markets.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "问题描述.excalidraw"
+              "icon": "lucide-file",
+              "title": "Data Markets"
             }
           }
         ]
@@ -110,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/Table Discovery.md",
+                "file": "Science/TableDiscovery/Data Markets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Table Discovery 的出链列表"
+              "title": "Data Markets 的出链列表"
             }
           },
           {
@@ -137,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science/TableDiscovery/问题描述.excalidraw.md"
+                "file": "Science/TableDiscovery/Data Markets.md"
               },
               "icon": "lucide-list",
-              "title": "问题描述.excalidraw 的大纲"
+              "title": "Data Markets 的大纲"
             }
           },
           {
@@ -168,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,15 +191,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "34a942354fd138e8",
+  "active": "e09c153e73a5365c",
   "lastOpenFiles": [
-    "Science/Kotlin/Master.md",
-    "Science/TableDiscovery/方案设计.md",
-    "README.md",
-    "LICENSE",
-    "Science/TableDiscovery/Main Records.md",
     "Science/TableDiscovery/问题描述.excalidraw.md",
+    "Science/Kotlin/Master.md",
+    "Science/TableDiscovery/Data Markets.md",
     "Science/公式实验舱.md",
+    "README.md",
+    "Science/TableDiscovery/方案设计.md",
+    "LICENSE",
     "Science/Kotlin",
     "Science/TableDiscovery",
     "Paper 01.md",

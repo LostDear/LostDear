@@ -57,4 +57,4 @@ tags:
 
 这篇论文将TUS和Preference结合，提出了一个Table Union Search with Preferences的问题
 Preference包括Skyline、Diversity、Novelty等。
-## Ideas
+
