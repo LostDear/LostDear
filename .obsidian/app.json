@@ -4,5 +4,11 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "/assets",
-  "showRibbon": true
+  "showRibbon": true,
+  "readableLineLength": true,
+  "newFileLocation": "current",
+  "userIgnoreFilters": [
+    "assets/",
+    "templates/"
+  ]
 }
