@@ -1,10 +1,10 @@
 {
-  "cssTheme": "Border",
+  "cssTheme": "Things",
   "baseFontSizeAction": true,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "enabledCssSnippets": [
     "custom-styles"
   ],
-  "accentColor": "#51aefb",
+  "accentColor": "#1f1f1f",
   "baseFontSize": 17
 }

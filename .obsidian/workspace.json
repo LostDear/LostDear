@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5429d623fbb87508",
+        "id": "0523f14bb091bf08",
         "type": "tabs",
         "children": [
           {
-            "id": "95abeaa30d5babeb",
+            "id": "059e61c3a23bc366",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science/TableDiscovery/Table Overlap.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Table Overlap"
+              "title": "新标签页"
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 410.5
   },
   "right": {
     "id": "58c5aa5c86fec01d",
@@ -112,12 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/TableDiscovery/Table Overlap.md",
+                "file": "Science/TableDiscovery/papers/Determining the Largest Overlap between Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Table Overlap 的出链列表"
+              "title": "Determining the Largest Overlap between Tables 的出链列表"
             }
           },
           {
@@ -138,11 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Science/TableDiscovery/Table Overlap.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Table Overlap 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -165,8 +159,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           }
         ],
@@ -178,7 +172,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -191,12 +184,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "95abeaa30d5babeb",
+  "active": "059e61c3a23bc366",
   "lastOpenFiles": [
-    "Science/TableDiscovery/Data Markets.md",
-    "Science/TableDiscovery/Table Overlap.md",
-    "Science/TableDiscovery/Problem Definitions.md",
     "Science/Kotlin/Master.md",
+    "Science/TableDiscovery/papers/Determining the Largest Overlap between Tables.md",
+    "未命名.canvas",
+    "Excalidraw/Drawing 2025-01-02 18.25.01.excalidraw.md",
+    "Excalidraw",
+    "Science/TableDiscovery/Data Markets.md",
+    "Science/TableDiscovery/papers",
+    "Science/TableDiscovery/Problem Definitions.md",
     "Science/TableDiscovery/问题描述.excalidraw.md",
     "Science/公式实验舱.md",
     "README.md",
@@ -210,7 +207,6 @@
     "欢迎.md",
     "Science/Table Retrieval",
     "Science",
-    "研究生",
-    "未命名.canvas"
+    "研究生"
   ]
 }
