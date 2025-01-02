@@ -11,10 +11,14 @@
             "id": "95abeaa30d5babeb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Science/TableDiscovery/Table Overlap.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Table Overlap"
             }
           }
         ]
@@ -108,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Science/TableDiscovery/Table Overlap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Table Overlap 的出链列表"
             }
           },
           {
@@ -133,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Science/TableDiscovery/Table Overlap.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Table Overlap 的大纲"
             }
           },
           {
@@ -167,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,9 +193,10 @@
   },
   "active": "95abeaa30d5babeb",
   "lastOpenFiles": [
-    "Science/Kotlin/Master.md",
-    "Science/TableDiscovery/Problem Definitions.md",
     "Science/TableDiscovery/Data Markets.md",
+    "Science/TableDiscovery/Table Overlap.md",
+    "Science/TableDiscovery/Problem Definitions.md",
+    "Science/Kotlin/Master.md",
     "Science/TableDiscovery/问题描述.excalidraw.md",
     "Science/公式实验舱.md",
     "README.md",
