@@ -170,12 +170,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,8 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a95e3ceb4747ac6",
+  "active": "ff6ca5811d725956",
   "lastOpenFiles": [
+    "assets/Pasted image 20250103162713.png",
+    "assets/Pasted image 20250103162228.png",
     "templates/(Template)Paper Name.md",
     "TableDiscovery/papers/2025-01/Determining the Largest Overlap between Tables.md",
     "assets/Pasted image 20250103141013.png",

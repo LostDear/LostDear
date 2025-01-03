@@ -36,6 +36,9 @@ where $|X_M|$ and $|O_M|$ represent the width and the height of the rectangle of
 $$O^* = \{  O_{M^*} \in \mathscr{O}  | A_{M^*} \geq A_M, \forall O_M \in O \}$$
 We refer to the mappings of $O^∗$ as top mappings, denoted as $M^∗$. Note that the number of top mappings (in most cases just one) is equal to the number of largest overlaps.
 
+## Previous Work
+
+
 ## Content
 ![[Pasted image 20250103140702.png]]
 ![[Pasted image 20250103141013.png]]
@@ -51,8 +54,13 @@ We refer to the mappings of $O^∗$ as top mappings, denoted as $M^∗$. Note th
 > （b）是表X到表Y的单映射，及其重叠面积
 > （c）单映射的组合，粗体为上界（列数* 最小单映射cell个数），另一个数为下界（最小单映射cell个数）
 
-## Previous Work
+![[Pasted image 20250103162228.png]]
+> [!note] 关于Function2的解释
+>min($X_{Seeds},Y_{Seeds}$) 是因为仅允许单向一一映射
+>n是当前层级，Seeds已排序好了，所以上界由Seed\[n-1\]决定
+  A是重叠上届，当A > $\theta$时，才加入Levels集合
 
+![[Pasted image 20250103162713.png]]
 
 
 ## 候选引用
