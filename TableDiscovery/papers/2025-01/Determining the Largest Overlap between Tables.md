@@ -1,6 +1,5 @@
 ---
 tags:
-  - paper
   - table-retrieval
   - table-overlap-detection
 year: "2024"

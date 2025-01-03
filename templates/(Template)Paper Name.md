@@ -1,6 +1,5 @@
 ---
-tags:
-  - paper
+tags: []
 year:
 ---
 ## 来源

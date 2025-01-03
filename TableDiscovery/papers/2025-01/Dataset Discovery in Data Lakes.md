@@ -1,6 +1,5 @@
 ---
 tags:
-  - paper
   - table-retrieval
   - table-discovery
 ---
