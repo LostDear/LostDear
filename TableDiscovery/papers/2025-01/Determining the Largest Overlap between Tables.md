@@ -40,6 +40,7 @@ We refer to the mappings of $O^∗$ as top mappings, denoted as $M^∗$. Note th
 
 
 ## Content
+### Exact Algorithm
 ![[Pasted image 20250103140702.png]]
 ![[Pasted image 20250103141013.png]]
 > [!note] 关于Algorithm1的解释
@@ -58,11 +59,33 @@ We refer to the mappings of $O^∗$ as top mappings, denoted as $M^∗$. Note th
 > [!note] 关于Function2的解释
 >min($X_{Seeds},Y_{Seeds}$) 是因为仅允许单向一一映射
 >n是当前层级，Seeds已排序好了，所以上界由Seed\[n-1\]决定
-  A是重叠上届，当A > $\theta$时，才加入Levels集合
+  A是重叠上界，当A > $\theta$时，才加入Levels集合
+  > Q：这里似乎只加入每一层最大的
+  > A：不要忘了我们的目的是要求最大重叠，也就是最顶层的最大值
+
 
 ![[Pasted image 20250103162713.png]]
+![[Pasted image 20250103204734.png]]
+> [!note]   关于Function3的解释
 
 
+### Greedy Algorithm
+对于精确算法，如果用于宽表，则可能导致大量Seeds产生
+解决方案：
+1. 限制每个列只能出现在K个Seed中，转变为stable matching problem问题
+> [!quote] David Gale and Lloyd S. Shapley. 1962. College Admissions and the Stability of Marriage. American Mathematical Monthly 69, 1 (1962), 9–15. https://doi.org/10.2307/2312726
+2. 基于**beam search**（波束搜索），广泛应用于语音识别领域。每一层只扩展 $\beta$ （**beam width**）个最优的Seeds，这个$\beta$是超参数
+
+
+## 实验结果
+
+### 应用场景
+
+Table Union/Join
 ## 候选引用
 >[!tip] [[Dataset Discovery in Data Lakes]]
 >Alex Bogatu, Alvaro A. A. Fernandes, Norman W. Paton, and Nikolaos Konstantinou. 2020. Dataset Discovery in Data Lakes. In Proceedings of the IEEE International Conference on Data Engineering (ICDE). 709–720. https: //doi.org/10.1109/ICDE48307.2020.00067
+
+> [!tip] [[(MATE) Multi-Attribute Table Extraction]]
+> Mahdi Esmailoghli, Jorge-Arnulfo Quiané-Ruiz, and Ziawasch Abedjan. 2022. MATE: Multi-Attribute Table Extraction. Proceedings of the VLDB Endowment (PVLDB) 15, 8 (2022), 1684–1696. https://doi.org/10.14778/3529337.3529353
+

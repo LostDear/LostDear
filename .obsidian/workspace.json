@@ -191,16 +191,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff6ca5811d725956",
+  "active": "6a95e3ceb4747ac6",
   "lastOpenFiles": [
+    "TableDiscovery/papers/2025-01/Overlap-based duplicate table detection.md",
+    "TableDiscovery/papers/2025-01/(MATE) Multi-Attribute Table Extraction.md",
+    "TableDiscovery/papers/2025-01/Determining the Largest Overlap between Tables.md",
+    "assets/Pasted image 20250103204734.png",
     "assets/Pasted image 20250103162713.png",
     "assets/Pasted image 20250103162228.png",
     "templates/(Template)Paper Name.md",
-    "TableDiscovery/papers/2025-01/Determining the Largest Overlap between Tables.md",
     "assets/Pasted image 20250103141013.png",
     "assets/Pasted image 20250103140718.png",
     "assets/Pasted image 20250103140702.png",
-    "TableDiscovery/papers/2025-01/Overlap-based duplicate table detection.md",
     "TableDiscovery/papers/2025-01/Duplicate Table Detection with Xash.md",
     "TableDiscovery/papers/2025-01/Dataset Discovery in Data Lakes.md",
     "TableDiscovery/papers/2025-01",
