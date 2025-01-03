@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TableDiscovery/papers/2025-01/Duplicate Table Detection with Xash.md",
+                "file": "TableDiscovery/papers/2025-01/Determining the Largest Overlap between Tables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Duplicate Table Detection with Xash"
+              "title": "Determining the Largest Overlap between Tables"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TableDiscovery/papers/2025-01/Duplicate Table Detection with Xash.md"
+                "file": "TableDiscovery/papers/2025-01/Determining the Largest Overlap between Tables.md"
               },
               "icon": "lucide-list",
-              "title": "Duplicate Table Detection with Xash 的大纲"
+              "title": "Determining the Largest Overlap between Tables 的大纲"
             }
           },
           {
@@ -165,16 +165,17 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,11 +194,14 @@
   },
   "active": "6a95e3ceb4747ac6",
   "lastOpenFiles": [
-    "TableDiscovery/papers/2025-01/Dataset Discovery in Data Lakes.md",
-    "TableDiscovery/papers/2025-01/Duplicate Table Detection with Xash.md",
-    "TableDiscovery/papers/2025-01/Overlap-based duplicate table detection.md",
-    "TableDiscovery/papers/2025-01/Determining the Largest Overlap between Tables.md",
+    "assets/Pasted image 20250103141013.png",
+    "assets/Pasted image 20250103140718.png",
+    "assets/Pasted image 20250103140702.png",
     "templates/(Template)Paper Name.md",
+    "TableDiscovery/papers/2025-01/Determining the Largest Overlap between Tables.md",
+    "TableDiscovery/papers/2025-01/Overlap-based duplicate table detection.md",
+    "TableDiscovery/papers/2025-01/Duplicate Table Detection with Xash.md",
+    "TableDiscovery/papers/2025-01/Dataset Discovery in Data Lakes.md",
     "TableDiscovery/papers/2025-01",
     "TableDiscovery/notes/Problem Definitions.md",
     "TableDiscovery/notes/Data Markets.md",

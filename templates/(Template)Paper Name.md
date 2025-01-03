@@ -20,7 +20,7 @@ year:
 ### Definition
 
 
-## 细节
+## Content
 
 
 ## Previous Work

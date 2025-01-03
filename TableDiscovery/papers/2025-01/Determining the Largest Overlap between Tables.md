@@ -36,7 +36,17 @@ where $|X_M|$ and $|O_M|$ represent the width and the height of the rectangle of
 $$O^* = \{  O_{M^*} \in \mathscr{O}  | A_{M^*} \geq A_M, \forall O_M \in O \}$$
 We refer to the mappings of $O^∗$ as top mappings, denoted as $M^∗$. Note that the number of top mappings (in most cases just one) is equal to the number of largest overlaps.
 
-## 细节
+## Content
+![[Pasted image 20250103140702.png]]
+![[Pasted image 20250103141013.png]]
+> [!note] 关于Algorithm1的解释
+> Seeds：表X和表Y所有可能的单映射对，每一个seed包含M：X->Y的一个映射，以及A：重叠的cell数量。只要两列的重叠数大于1就认定为可能映射（如Function1第6行所示）。而所有的多映射可以认定为
+> 
+
+
+
+**Fig1**
+![[Pasted image 20250103140718.png]]
 
 
 ## Previous Work
