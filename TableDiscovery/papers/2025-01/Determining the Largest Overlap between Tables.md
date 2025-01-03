@@ -40,14 +40,16 @@ We refer to the mappings of $O^∗$ as top mappings, denoted as $M^∗$. Note th
 ![[Pasted image 20250103140702.png]]
 ![[Pasted image 20250103141013.png]]
 > [!note] 关于Algorithm1的解释
-> Seeds：表X和表Y所有可能的单映射对，每一个seed包含M：X->Y的一个映射，以及A：重叠的cell数量。只要两列的重叠数大于1就认定为可能映射（如Function1第6行所示）。而所有的多映射可以认定为
+> Seeds：表X和表Y所有可能的单映射对，每一个seed包含M：X->Y的一个映射，以及A：重叠的cell数量。只要两列的重叠数大于1就认定为可能映射（如Function1第6行所示）。而所有的多映射可以认定为多个单映射的组合。FindSeeds函数最终会按照A由大到小排序，返回所有可能的映射对。
+> Line 3：正如文中第7页所示，最大重叠的上届由A最小的单映射决定（短板效应）。
 > 
-
 
 
 **Fig1**
 ![[Pasted image 20250103140718.png]]
-
+> [!note] 关于Fig1的解释
+> （b）是表X到表Y的单映射，及其重叠面积
+> （c）单映射的组合，粗体为上界（列数* 最小单映射cell个数），另一个数为下界（最小单映射cell个数）
 
 ## Previous Work
 
