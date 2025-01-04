@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TableDiscovery/papers/2025-01/Determining the Largest Overlap between Tables.md",
+                "file": "TableDiscovery/papers/2025-01/Duplicate Table Detection with Xash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Determining the Largest Overlap between Tables"
+              "title": "Duplicate Table Detection with Xash"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TableDiscovery/papers/2025-01/Determining the Largest Overlap between Tables.md"
+                "file": "TableDiscovery/papers/2025-01/Duplicate Table Detection with Xash.md"
               },
               "icon": "lucide-list",
-              "title": "Determining the Largest Overlap between Tables 的大纲"
+              "title": "Duplicate Table Detection with Xash 的大纲"
             }
           },
           {
@@ -193,9 +193,9 @@
   },
   "active": "6a95e3ceb4747ac6",
   "lastOpenFiles": [
-    "TableDiscovery/papers/2025-01/Overlap-based duplicate table detection.md",
-    "TableDiscovery/papers/2025-01/(MATE) Multi-Attribute Table Extraction.md",
     "TableDiscovery/papers/2025-01/Determining the Largest Overlap between Tables.md",
+    "TableDiscovery/papers/2025-01/(MATE) Multi-Attribute Table Extraction.md",
+    "TableDiscovery/papers/2025-01/Overlap-based duplicate table detection.md",
     "assets/Pasted image 20250103204734.png",
     "assets/Pasted image 20250103162713.png",
     "assets/Pasted image 20250103162228.png",
