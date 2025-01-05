@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TableDiscovery/papers/2025-01/Duplicate Table Detection with Xash.md",
+                "file": "TableDiscovery/papers/2025-01/(MATE) Multi-Attribute Table Extraction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Duplicate Table Detection with Xash"
+              "title": "(MATE) Multi-Attribute Table Extraction"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TableDiscovery/papers/2025-01/Duplicate Table Detection with Xash.md"
+                "file": "TableDiscovery/papers/2025-01/(MATE) Multi-Attribute Table Extraction.md"
               },
               "icon": "lucide-list",
-              "title": "Duplicate Table Detection with Xash 的大纲"
+              "title": "(MATE) Multi-Attribute Table Extraction 的大纲"
             }
           },
           {
@@ -194,6 +194,7 @@
   "active": "6a95e3ceb4747ac6",
   "lastOpenFiles": [
     "TableDiscovery/papers/2025-01/Determining the Largest Overlap between Tables.md",
+    "TableDiscovery/papers/2025-01/Duplicate Table Detection with Xash.md",
     "TableDiscovery/papers/2025-01/(MATE) Multi-Attribute Table Extraction.md",
     "TableDiscovery/papers/2025-01/Overlap-based duplicate table detection.md",
     "assets/Pasted image 20250103204734.png",
@@ -203,7 +204,6 @@
     "assets/Pasted image 20250103141013.png",
     "assets/Pasted image 20250103140718.png",
     "assets/Pasted image 20250103140702.png",
-    "TableDiscovery/papers/2025-01/Duplicate Table Detection with Xash.md",
     "TableDiscovery/papers/2025-01/Dataset Discovery in Data Lakes.md",
     "TableDiscovery/papers/2025-01",
     "TableDiscovery/notes/Problem Definitions.md",

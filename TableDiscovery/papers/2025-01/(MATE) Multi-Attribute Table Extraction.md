@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - table-discovery
 year:
 ---
 ## 来源
