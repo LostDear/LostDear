@@ -47,5 +47,5 @@ $$O^* = \{  O_{M^*} \in \mathscr{O}  | A_{M^*} \geq A_M, \forall O_M \in O \}$$
 We refer to the mappings of $O^∗$ as top mappings, denoted as $M^∗$. Note that the number of top mappings (in most cases just one) is equal to the number of largest overlaps.
 
 $$
-J(R,S) = \arg\mathop{\max}\limits_{Y'} |\Pi_{X}(R) \cap  \Pi_{Y'}(S)|
+\frac{1}{2}
 $$
