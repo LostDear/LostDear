@@ -23,7 +23,8 @@ year: 2024
 
 
 ## Content
-
+### XHash
+对于一个数据湖，如果其中唯一值的个数为$C_{unique}$，对于长度为$|\alpha|$，且包含a个1的哈希编码，xiang'ya
 
 ## Previous Work
 
