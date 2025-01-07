@@ -45,3 +45,7 @@ where $|X_M|$ and $|O_M|$ represent the width and the height of the rectangle of
 **Definition 2.4 (Largest Overlap).** Let $O$ be the set of overlaps determined by all possible mappings between $R(X )$ and $S (Y )$. We define the set of the largest overlaps $O^∗ ⊆ O$ as those overlaps that have the maximum area:
 $$O^* = \{  O_{M^*} \in \mathscr{O}  | A_{M^*} \geq A_M, \forall O_M \in O \}$$
 We refer to the mappings of $O^∗$ as top mappings, denoted as $M^∗$. Note that the number of top mappings (in most cases just one) is equal to the number of largest overlaps.
+
+$$
+J(R,S) = \arg\mathop{\max}\limits_{Y'} |\Pi_{X}(R) \cap  \Pi_{Y'}(S)|
+$$
