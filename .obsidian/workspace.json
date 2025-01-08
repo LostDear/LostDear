@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 410.5,
+    "collapsed": true
   },
   "right": {
     "id": "58c5aa5c86fec01d",
@@ -174,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 375.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,14 +194,15 @@
   },
   "active": "6a95e3ceb4747ac6",
   "lastOpenFiles": [
+    "assets/Pasted image 20250108104615.png",
     "TableDiscovery/papers/2025-01/Determining the Largest Overlap between Tables.md",
+    "TableDiscovery/papers/2025-01/Dataset Discovery in Data Lakes.md",
     "TableDiscovery/papers/2025-01/(MATE) Multi-Attribute Table Extraction.md",
     "公式实验舱.md",
     "TableDiscovery/notes/Problem Definitions.md",
     "TableDiscovery/notes/Data Markets.md",
     "TableDiscovery/papers/2025-01/Duplicate Table Detection with Xash.md",
     "TableDiscovery/papers/2025-01/Overlap-based duplicate table detection.md",
-    "TableDiscovery/papers/2025-01/Dataset Discovery in Data Lakes.md",
     "assets/Pasted image 20250103204734.png",
     "assets/Pasted image 20250103162713.png",
     "assets/Pasted image 20250103162228.png",

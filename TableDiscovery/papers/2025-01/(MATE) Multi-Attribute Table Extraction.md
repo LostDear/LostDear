@@ -32,6 +32,9 @@ year: 2024
 ### Index
 该方案的索引沿用了倒排索引方案，使用value作为索引键，对应的值为{$(T_i,R_i,C_i,S_i)$}，即该值出现在哪些表中，同时记录出现位置和该行的super key。
 
+###  JOINABLE TABLES DISCOVERY
+![[Pasted image 20250108104615.png]]
+
 ## Previous Work
 
 
