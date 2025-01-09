@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TableDiscovery/notes/差异化可联合数据表发现方案.md",
+                "file": "TableDiscovery/notes/独特性敏感的可联合数据表发现方案.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "差异化可联合数据表发现方案"
+              "title": "独特性敏感的可联合数据表发现方案"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TableDiscovery/notes/差异化可联合数据表发现方案.md"
+                "file": "TableDiscovery/notes/独特性敏感的可联合数据表发现方案.md"
               },
               "icon": "lucide-list",
-              "title": "差异化可联合数据表发现方案 的大纲"
+              "title": "独特性敏感的可联合数据表发现方案 的大纲"
             }
           },
           {
@@ -194,7 +194,7 @@
   "active": "6a95e3ceb4747ac6",
   "lastOpenFiles": [
     "TableDiscovery/notes/Data Markets.md",
-    "TableDiscovery/notes/差异化可联合数据表发现方案.md",
+    "TableDiscovery/notes/独特性敏感的可联合数据表发现方案.md",
     "TableDiscovery/notes/Problem Definitions.md",
     "TableDiscovery/papers/2025-01/(MATE) Multi-Attribute Table Extraction.md",
     "assets/Pasted image 20250108104615.png",
