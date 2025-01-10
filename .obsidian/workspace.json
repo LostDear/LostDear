@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#对x四舍五入，保留d位小数",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bb96297920f95a2",
+  "active": "6c9628ac7e80dbdd",
   "lastOpenFiles": [
     "TableDiscovery/notes/独特性敏感的可联合数据表发现方案.md",
     "TableDiscovery/notes/Python课程复习.md",
