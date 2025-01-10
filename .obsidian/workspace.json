@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TableDiscovery/notes/独特性敏感的可联合数据表发现方案.md",
+                "file": "TableDiscovery/notes/Python课程复习.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "独特性敏感的可联合数据表发现方案"
+              "title": "Python课程复习"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#对x四舍五入，保留d位小数",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TableDiscovery/notes/独特性敏感的可联合数据表发现方案.md"
+                "file": "TableDiscovery/notes/Python课程复习.md"
               },
               "icon": "lucide-list",
-              "title": "独特性敏感的可联合数据表发现方案 的大纲"
+              "title": "Python课程复习 的大纲"
             }
           },
           {
@@ -191,10 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a95e3ceb4747ac6",
+  "active": "5bb96297920f95a2",
   "lastOpenFiles": [
-    "TableDiscovery/notes/Data Markets.md",
     "TableDiscovery/notes/独特性敏感的可联合数据表发现方案.md",
+    "TableDiscovery/notes/Python课程复习.md",
+    "TableDiscovery/notes/Data Markets.md",
     "TableDiscovery/notes/Problem Definitions.md",
     "TableDiscovery/papers/2025-01/(MATE) Multi-Attribute Table Extraction.md",
     "assets/Pasted image 20250108104615.png",
