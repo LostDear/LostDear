@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TableDiscovery/notes/Problem Definitions.md",
+                "file": "TableDiscovery/notes/DAILY Schedule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Problem Definitions"
+              "title": "DAILY Schedule"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TableDiscovery/notes/Problem Definitions.md"
+                "file": "TableDiscovery/notes/DAILY Schedule.md"
               },
               "icon": "lucide-list",
-              "title": "Problem Definitions 的大纲"
+              "title": "DAILY Schedule 的大纲"
             }
           },
           {
@@ -168,9 +168,19 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "14f188621e62cb6f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -193,8 +203,10 @@
   },
   "active": "6a95e3ceb4747ac6",
   "lastOpenFiles": [
-    "TableDiscovery/notes/Data Markets.md",
     "TableDiscovery/notes/Problem Definitions.md",
+    "TableDiscovery/notes/DAILY Schedule.md",
+    "TableDiscovery/notes/未命名.canvas",
+    "TableDiscovery/notes/Data Markets.md",
     "TableDiscovery/notes/Python课程复习.md",
     "TableDiscovery/notes/独特性敏感的可联合数据表发现方案.md",
     "TableDiscovery/papers/2025-01/(MATE) Multi-Attribute Table Extraction.md",
