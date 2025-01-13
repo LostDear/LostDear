@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TableDiscovery/notes/DAILY Schedule.md"
+                "file": "公式实验舱.md"
               },
               "icon": "lucide-list",
-              "title": "DAILY Schedule 的大纲"
+              "title": "公式实验舱 的大纲"
             }
           },
           {
@@ -203,17 +203,17 @@
   },
   "active": "6a95e3ceb4747ac6",
   "lastOpenFiles": [
-    "TableDiscovery/notes/Problem Definitions.md",
+    "TableDiscovery/notes/独特性敏感的可联合数据表发现方案.md",
     "TableDiscovery/notes/DAILY Schedule.md",
+    "公式实验舱.md",
+    "TableDiscovery/notes/Problem Definitions.md",
     "TableDiscovery/notes/未命名.canvas",
     "TableDiscovery/notes/Data Markets.md",
     "TableDiscovery/notes/Python课程复习.md",
-    "TableDiscovery/notes/独特性敏感的可联合数据表发现方案.md",
     "TableDiscovery/papers/2025-01/(MATE) Multi-Attribute Table Extraction.md",
     "assets/Pasted image 20250108104615.png",
     "TableDiscovery/papers/2025-01/Determining the Largest Overlap between Tables.md",
     "TableDiscovery/papers/2025-01/Dataset Discovery in Data Lakes.md",
-    "公式实验舱.md",
     "TableDiscovery/papers/2025-01/Duplicate Table Detection with Xash.md",
     "TableDiscovery/papers/2025-01/Overlap-based duplicate table detection.md",
     "assets/Pasted image 20250103204734.png",
